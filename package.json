@@ -1,0 +1,17 @@
+{
+  "name": "factory-slider-new",
+  "version": "1.0.0",
+  "description": "Slider is live on https://bojanmandic.com/factory-slider/",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/sass/index.scss assets/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.17",
+    "@babel/preset-env": "^7.22.15",
+    "node-sass": "^9.0.0"
+  }
+}

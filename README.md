@@ -1,0 +1,1 @@
+Slider is live on https://bojanmandic.com/factory-slider/
